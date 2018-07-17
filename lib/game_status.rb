@@ -4,7 +4,7 @@ def position_taken?(board, index)
 end
 
 def won?(board)
-   
+   WIN_COMBINATIONS.detect do |
   end
   
   
